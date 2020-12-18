@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "https://u.cubeupload.com/cdalangin/artillery.jpg",
+        "name": "ARTillery",
+        "desc": "Winner of the Best Arts and Crafts Hack of Techtogether's HobbyHacks Hackathon! A cure for Artist Block that not only gives users a simple prompt to follow, but also gives them various options to draw inspiration from. Used HTML, Bootstrap, and Javascript.",
+        "technologies": "URL",
+        "githubURL": "https://github.com/cdalangin/hobbyhacks",
+        "demoURL": "http://www.art-illery.tech/"
+    },
+    {
+        "id": 2,
+        "image": "https://u.cubeupload.com/cdalangin/moveitcovid.jpg",
+        "name": "Move-it COVID",
+        "desc": "An endless runner game for kids to learn best practices to prevent the spread of COVID-19 using HTML Canvas and Javascript.",
+        "technologies": "URL",
+        "githubURL": "https://github.com/shanicesmith98/prevention-game",
+        "demoURL": "URL"
+    },
+    {
+        "id": 3,
+        "image": "https://u.cubeupload.com/cdalangin/insanitysp.png",
+        "name": "Insanity Starter Pack",
+        "desc": "With the push of a button, this web app will take you to a random page with a bunch of goofs and jokes.",
+        "technologies": "URL",
+        "githubURL": "https://github.com/cdalangin/sillyhacks",
+        "demoURL": "http://www.insanitystarterpack.media/"
+    },
+    {
+        "id": 4,
+        "image": "https://u.cubeupload.com/cdalangin/creaticafrontpage.png",
+        "name": "Quick Meals",
+        "desc": "Quick Meals serves personalized meals based on your set of criteria to make your time in the kitchen easier!",
+        "technologies": "URL",
+        "githubURL": "https://github.com/cdalangin/creatica20",
+        "demoURL": "https://treatyourself.tech/"
+    }
+]

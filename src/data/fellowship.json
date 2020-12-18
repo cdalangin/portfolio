@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "image": "https://u.cubeupload.com/cdalangin/chronologeese.jpg",
+        "name": "Chronolo-Geese",
+        "desc": "Git organized. Git on time. Chronolo-Geese is the best schedule conflict manager for students.",
+        "technologies": "URL",
+        "githubURL": "https://github.com/MLH-Fellowship/Chronolo-Geese",
+        "demoURL": "https://chronolo-geese.web.app/"
+    },
+    {
+        "id": 2,
+        "image": "https://u.cubeupload.com/cdalangin/Untitled1.jpg",
+        "name": "Green Geese",
+        "desc": "A plant-themed 2D platformer game.  As the level progresses, the player will transform into various stages of a plant until it becomes fully grown.",
+        "technologies": "URL",
+        "githubURL": "https://github.com/MLH-Fellowship/Green-Geese",
+        "demoURL": "https://zzranger.github.io/Green-Geese-Demo/"
+    },
+    {
+        "id": 3,
+        "image": "https://u.cubeupload.com/cdalangin/simplifytn.jpg",
+        "name": "Simplify",
+        "desc": "A chrome extension that summarizes articles into 5 sentences with just one click!",
+        "technologies": "URL",
+        "githubURL": "https://github.com/MLH-Fellowship/Simplify",
+        "demoURL": "URL"
+    },
+    {
+        "id": 4,
+        "image": "https://u.cubeupload.com/cdalangin/freecoursextn.jpg",
+        "name": "FreeCourseX",
+        "desc": "A developer tool that gathers all coding tutorials and courses into one website",
+        "technologies": "URL",
+        "githubURL": "https://github.com/MLH-Fellowship/FreeCourseX",
+        "demoURL": "URL"
+    },
+    {
+        "id": 5,
+        "image": "https://u.cubeupload.com/cdalangin/giv4gudtn.jpg",
+        "name": "Giv4Gud",
+        "desc": "An app that connects individuals to local shelters to donate their excess items",
+        "technologies": "URL",
+        "githubURL": "https://github.com/MLH-Fellowship/giv4gud",
+        "demoURL": "https://expo.io/@cdalangin/projects/giv4gud"
+    },
+    {
+        "id": 6,
+        "image": "https://u.cubeupload.com/cdalangin/spyfallslide.jpg",
+        "name": "Spyfall 2.0",
+        "desc": "A web game based on the classic card game Spyfall, and based on every other Spyfall web game ever made, but better. We used Node.js, Express.js, and Google Firebase.",
+        "technologies": "URL",
+        "githubURL": "https://github.com/soyalexx/CodeLabs-WebGame",
+        "demoURL": "URL"
+    }
+]
