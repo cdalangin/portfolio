@@ -13,8 +13,8 @@ export default function Navbar() {
                         </a>
                     </div>
 
-                    <div className="flex justify-start">
-                        <a href="#" className="text-base font-medium text-purple-50 hover:text-purple-600">
+                    {/* <div className="flex justify-start">
+                        <a href="/about" className="text-base font-medium text-purple-50 hover:text-purple-600">
                             About
                         </a>
                     </div>
@@ -23,7 +23,7 @@ export default function Navbar() {
                         <a href="#" className="text-base font-medium text-purple-50 hover:text-purple-600">
                             Experiences
                         </a>
-                    </div>
+                    </div> */}
 
                     <div className="flex justify-start">
                         <a href="#" className="text-base font-medium text-purple-50 hover:text-purple-600">
@@ -31,11 +31,11 @@ export default function Navbar() {
                         </a>
                     </div>
 
-                    <div className="flex justify-start">
+                    {/* <div className="flex justify-start">
                         <a href="#" className="text-base font-medium text-purple-50 hover:text-purple-600">
                             Contact Me
                         </a>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>

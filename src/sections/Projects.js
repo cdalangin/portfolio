@@ -1,4 +1,4 @@
-import React, { useState, Component } from 'react';
+import React from 'react';
 import { TabGroup } from '@statikly/funk'
 import "tailwindcss/tailwind.css"
 import Card from "../components/Card.js"
@@ -47,9 +47,9 @@ export default function Projects() {
                         activeClassName="opacity-100 duration-500 translate-x-0"
                         inactiveClassName="absolute opacity-0 -translate-x-2"
                     >
-
-                        <Card dataSource={fellowship} />
-
+                        <div className="flex flex-row flex-wrap justify-center mt-5 ">
+                            <Card dataSource={fellowship} />
+                        </div>
                     </TabGroup.TabPanel>
 
                     <TabGroup.TabPanel
@@ -59,7 +59,9 @@ export default function Projects() {
                         inactiveClassName="absolute opacity-0 -translate-x-2"
                     >
 
-                        <Card dataSource={hackathons} />
+                        <div className="flex flex-row flex-wrap justify-center mt-5 ">
+                            <Card dataSource={hackathons} />
+                        </div>
 
                     </TabGroup.TabPanel>
                     <TabGroup.TabPanel
@@ -68,7 +70,11 @@ export default function Projects() {
                         activeClassName="opacity-100 duration-500 translate-x-0"
                         inactiveClassName="absolute opacity-0 -translate-x-2"
                     >
-                        <Card dataSource={misc} />
+
+                        <div className="flex flex-row flex-wrap justify-center mt-5 ">
+                            <Card dataSource={misc} />
+                        </div>
+
                     </TabGroup.TabPanel>
                 </TabGroup>
             </div>

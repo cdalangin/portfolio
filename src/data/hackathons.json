@@ -3,36 +3,48 @@
         "id": 1,
         "image": "https://u.cubeupload.com/cdalangin/artillery.jpg",
         "name": "ARTillery",
-        "desc": "Winner of the Best Arts and Crafts Hack of Techtogether's HobbyHacks Hackathon! A cure for Artist Block that not only gives users a simple prompt to follow, but also gives them various options to draw inspiration from. Used HTML, Bootstrap, and Javascript.",
+        "desc": "A cure for Artist Block that not only gives users a simple prompt to follow, but also gives them various options to draw inspiration from. Used HTML, Bootstrap, and Javascript.",
+        "prize": "👑 Best Arts and Crafts Hack of Techtogether's HobbyHacks Hackathon",
         "technologies": "URL",
-        "githubURL": "https://github.com/cdalangin/hobbyhacks",
-        "demoURL": "http://www.art-illery.tech/"
+        "url1": "https://github.com/cdalangin/hobbyhacks",
+        "button1": "Github",
+        "url2": "http://www.art-illery.tech/",
+        "button2": "Demo"
     },
     {
         "id": 2,
         "image": "https://u.cubeupload.com/cdalangin/moveitcovid.jpg",
         "name": "Move-it COVID",
+        "prize": "N/A",
         "desc": "An endless runner game for kids to learn best practices to prevent the spread of COVID-19 using HTML Canvas and Javascript.",
         "technologies": "URL",
-        "githubURL": "https://github.com/shanicesmith98/prevention-game",
-        "demoURL": "URL"
+        "url1": "https://github.com/shanicesmith98/prevention-game",
+        "button1": "Github",
+        "url2": "URL",
+        "button2": "Demo"
     },
     {
         "id": 3,
         "image": "https://u.cubeupload.com/cdalangin/insanitysp.png",
         "name": "Insanity Starter Pack",
+        "prize": "N/A",
         "desc": "With the push of a button, this web app will take you to a random page with a bunch of goofs and jokes.",
         "technologies": "URL",
-        "githubURL": "https://github.com/cdalangin/sillyhacks",
-        "demoURL": "http://www.insanitystarterpack.media/"
+        "url1": "https://github.com/cdalangin/sillyhacks",
+        "button1": "Github",
+        "url2": "http://www.insanitystarterpack.media/",
+        "button2": "Demo"
     },
     {
         "id": 4,
         "image": "https://u.cubeupload.com/cdalangin/creaticafrontpage.png",
         "name": "Quick Meals",
+        "prize": "N/A",
         "desc": "Quick Meals serves personalized meals based on your set of criteria to make your time in the kitchen easier!",
         "technologies": "URL",
-        "githubURL": "https://github.com/cdalangin/creatica20",
-        "demoURL": "https://treatyourself.tech/"
+        "url1": "https://github.com/cdalangin/creatica20",
+        "button1": "Github",
+        "url2": "https://treatyourself.tech/",
+        "button2": "Demo"
     }
 ]

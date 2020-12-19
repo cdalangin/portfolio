@@ -72,8 +72,12 @@ module.exports = {
       bounce: 'bounce 1s infinite',
     },
     backgroundColor: (theme) => theme('colors'),
-    backgroundImage: {
+    backgroundImage: (theme) => ({
       none: 'none',
+      'baruch': 'url(https://u.cubeupload.com/cdalangin/baruch.jpg)',
+      'wib': 'url("https://u.cubeupload.com/cdalangin/wib.jpg")',
+      'mlh': 'url("https://u.cubeupload.com/cdalangin/fellowship.jpg")',
+      'kaOmie': 'url("https://u.cubeupload.com/cdalangin/kaomie.jpg")',
       'gradient-to-t': 'linear-gradient(to top, var(--tw-gradient-stops))',
       'gradient-to-tr': 'linear-gradient(to top right, var(--tw-gradient-stops))',
       'gradient-to-r': 'linear-gradient(to right, var(--tw-gradient-stops))',
@@ -82,7 +86,7 @@ module.exports = {
       'gradient-to-bl': 'linear-gradient(to bottom left, var(--tw-gradient-stops))',
       'gradient-to-l': 'linear-gradient(to left, var(--tw-gradient-stops))',
       'gradient-to-tl': 'linear-gradient(to top left, var(--tw-gradient-stops))',
-    },
+    }),
     backgroundOpacity: (theme) => theme('opacity'),
     backgroundPosition: {
       bottom: 'bottom',

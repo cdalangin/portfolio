@@ -9,6 +9,7 @@ import './App.css';
 import LandingPage from "./pages/Landing.js"
 import Artworks from './pages/Artworks.js'
 import TrophyCase from './pages/TrophyCase.js'
+import About from './sections/About.js'
 
 function App() {
   return (

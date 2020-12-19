@@ -52,7 +52,9 @@ export default function Footer() {
                 <p className="text-lg text-gray-500 text-center font-medium p-10">
                     Copyright © Cirill Dalangin 2020
                 </p>
+
             </div>
+
 
         </footer>
 

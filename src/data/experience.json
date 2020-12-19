@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "image": "https://u.cubeupload.com/cdalangin/codeday.jpg",
+        "title": "CodeDay",
+        "position": "CodeLabs Intern",
+        "time": "July 2020",
+        "list": [
+            "CodeLabs is a four week long internship where I worked with a group of 3 to created a multiplayer web game based on the card game Spyfall. We collaborated on the front end using HTML, CSS, and Bootstrap, and the backend using Node.js and the Google Cloud Platform.",
+            "I also designed the logo and 20 playing cards that were used in our web game using Adobe Photoshop."
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "image": "https://u.cubeupload.com/cdalangin/baruch.jpg",
+        "title": "Baruch College",
+        "position": "Sophomore Student",
+        "time": "Class of 2023",
+        "list": [
+            "Computer Information Systems - Cybersecurity Major",
+            "Graphic Art Minor"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "https://u.cubeupload.com/cdalangin/fellowship.jpg",
+        "title": "MLH Fellowship",
+        "position": "Explorer Fellow",
+        "time": "October 2020 - Present",
+        "list": [
+            "Collaborate virtually in a group of 4 on 6 hackathon-like projects using ReactJS, Google Firebase",
+            "Participate in bi-weekly stand-ups to track each other’s progress and provide appropriate feedback"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://u.cubeupload.com/cdalangin/wib.jpg",
+        "title": "Baruch Women in Business",
+        "position": "VP of Graphics and IT Committee",
+        "time": "August 2020 - Present",
+        "list": [
+            "Lead the committee to create promotional materials for the club such as flyers and banners every week",
+            "Update the official website and handle orders from the online store"
+        ]
+    }
+]
