@@ -1,6 +1,17 @@
 [
     {
         "id": 1,
+        "image": "https://u.cubeupload.com/cdalangin/fellowship.jpg",
+        "title": "MLH Fellowship",
+        "position": "Explorer Fellow",
+        "time": "October 2020 - December 2020",
+        "list": [
+            "Collaborate virtually in a group of 4 on 6 hackathon-like projects using ReactJS, Google Firebase",
+            "Participate in bi-weekly stand-ups to track each other’s progress and provide appropriate feedback"
+        ]
+    },
+    {
+        "id": 2,
         "image": "https://u.cubeupload.com/cdalangin/codeday.jpg",
         "title": "CodeDay",
         "position": "CodeLabs Intern",
