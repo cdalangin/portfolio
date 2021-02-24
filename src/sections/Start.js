@@ -8,8 +8,8 @@ export default function Start() {
     return (
         <div className="h-screen grid grid-cols-2 gap-3 flex items-center p-3">
             <div className="text-center">
-                <p className="text-4xl font-black text-white">Hi! I'm Cirill Florenz</p>
-                <p className="text-3xl text-gray-500">I'm a Hackathon and Boba Enthusiast</p>
+                <p className="text-4xl font-black text-indigo-900">Hi! I'm Cirill Florenz</p>
+                <p className="text-3xl text-indigo-800">I'm a Hackathon and Boba Enthusiast</p>
             </div>
             <div className="p-5">
                 <img

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "image": "https://u.cubeupload.com/cdalangin/freecoursextn.jpg",
+        "name": "FreeCourseX",
+        "prize": "N/A",
+        "desc": "A developer tool that gathers all coding tutorials and courses into one website",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "url1": "https://github.com/MLH-Fellowship/FreeCourseX",
+        "button1": "Github",
+        "url2": "URL",
+        "button2": "Demo"
+    }
+]

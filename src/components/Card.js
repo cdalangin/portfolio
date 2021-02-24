@@ -2,6 +2,7 @@ import React from 'react';
 import "tailwindcss/tailwind.css"
 import Buttons from './Buttons.js'
 import Achievements from './Achievements.js'
+import Tech from './Tech.js'
 
 export default function Card(props) {
     let items = props.dataSource
@@ -33,9 +34,13 @@ export default function Card(props) {
 
                         <p class="text-grey-darker text-base">
                             {project.desc}
+
                         </p>
-
-
+                        <div className="flex flex-row space-x-4 justify-center py-4">
+                            <Tech
+                                technologies={project.technologies}
+                            />
+                        </div>
                         <div className="flex flex-row space-x-4 justify-center py-4">
 
                             <Buttons

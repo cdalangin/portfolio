@@ -1,74 +1,98 @@
 [
     {
         "id": 1,
-        "image": "https://u.cubeupload.com/cdalangin/chronologeese.jpg",
-        "name": "Chronolo-Geese",
-        "prize": "N/A",
-        "desc": "Git organized. Git on time. Chronolo-Geese is the best schedule conflict manager for students.",
-        "technologies": "URL",
-        "url1": "https://github.com/MLH-Fellowship/Chronolo-Geese",
-        "button1": "Github",
-        "url2": "https://chronolo-geese.web.app/",
-        "button2": "Demo"
-    },
-    {
-        "id": 2,
-        "image": "https://u.cubeupload.com/cdalangin/Untitled1.jpg",
-        "name": "Green Geese",
-        "prize": "N/A",
-        "desc": "A plant-themed 2D platformer game.  As the level progresses, the player will transform into various stages of a plant until it becomes fully grown.",
-        "technologies": "URL",
-        "url1": "https://github.com/MLH-Fellowship/Green-Geese",
-        "button1": "Github",
-        "url2": "https://zzranger.github.io/Green-Geese-Demo/",
-        "button2": "Demo"
-    },
-    {
-        "id": 3,
-        "image": "https://u.cubeupload.com/cdalangin/simplifytn.jpg",
-        "name": "Simplify",
-        "prize": "N/A",
-        "desc": "A chrome extension that summarizes articles into 5 sentences with just one click!",
-        "technologies": "URL",
-        "url1": "https://github.com/MLH-Fellowship/Simplify",
-        "button1": "Github",
-        "url2": "URL",
-        "button2": "Demo"
-    },
-    {
-        "id": 4,
-        "image": "https://u.cubeupload.com/cdalangin/freecoursextn.jpg",
-        "name": "FreeCourseX",
-        "prize": "N/A",
-        "desc": "A developer tool that gathers all coding tutorials and courses into one website",
-        "technologies": "URL",
-        "url1": "https://github.com/MLH-Fellowship/FreeCourseX",
-        "button1": "Github",
-        "url2": "URL",
-        "button2": "Demo"
-    },
-    {
-        "id": 5,
         "image": "https://u.cubeupload.com/cdalangin/giv4gudtn.jpg",
         "name": "Giv4Gud",
         "prize": "👑 Sprint 5 Global Finalist",
         "desc": "An app that connects individuals to local shelters to donate their excess items",
-        "technologies": "URL",
+        "technologies": [
+            "React Native",
+            "Expo",
+            "Google Firebase"
+        ],
         "url1": "https://github.com/MLH-Fellowship/giv4gud",
         "button1": "Github",
         "demoURL": "https://expo.io/@cdalangin/projects/giv4gud",
         "button2": "Demo"
     },
     {
-        "id": 6,
-        "image": "https://u.cubeupload.com/cdalangin/spyfallslide.jpg",
-        "name": "Spyfall 2.0",
+        "id": 2,
+        "image": "https://u.cubeupload.com/cdalangin/artillery.jpg",
+        "name": "ARTillery",
+        "desc": "A cure for Artist Block that not only gives users a simple prompt to follow, but also gives them various options to draw inspiration from. Used HTML, Bootstrap, and Javascript.",
+        "prize": "👑 Best Arts and Crafts Hack of Techtogether's HobbyHacks Hackathon",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "url1": "https://github.com/cdalangin/hobbyhacks",
+        "button1": "Github",
+        "url2": "http://www.art-illery.tech/",
+        "button2": "Demo"
+    },
+    {
+        "id": 3,
+        "image": "https://u.cubeupload.com/cdalangin/chronologeese.jpg",
+        "name": "Chronolo-Geese",
         "prize": "N/A",
-        "desc": "A web game based on the classic card game Spyfall, and based on every other Spyfall web game ever made, but better. We used Node.js, Express.js, and Google Firebase.",
-        "technologies": "URL",
-        "url1": "https://github.com/soyalexx/CodeLabs-WebGame",
+        "desc": "Git organized. Git on time. Chronolo-Geese is the best schedule conflict manager for students.",
+        "technologies": [
+            "React.js",
+            "MaterialUI",
+            "Google Firebase"
+        ],
+        "url1": "https://github.com/MLH-Fellowship/Chronolo-Geese",
+        "button1": "Github",
+        "url2": "https://chronolo-geese.web.app/",
+        "button2": "Demo"
+    },
+    {
+        "id": 4,
+        "image": "https://u.cubeupload.com/cdalangin/simplifytn.jpg",
+        "name": "Simplify",
+        "prize": "N/A",
+        "desc": "A chrome extension that summarizes articles into 5 sentences with just one click!",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "Heroku"
+        ],
+        "url1": "https://github.com/MLH-Fellowship/Simplify",
         "button1": "Github",
         "url2": "URL",
+        "button2": "Demo"
+    },
+    {
+        "id": 5,
+        "image": "https://u.cubeupload.com/cdalangin/insanitysp.png",
+        "name": "Insanity Starter Pack",
+        "prize": "N/A",
+        "desc": "With the push of a button, this web app will take you to a random page with a bunch of goofs and jokes.",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "url1": "https://github.com/cdalangin/sillyhacks",
+        "button1": "Github",
+        "url2": "http://www.insanitystarterpack.media/",
+        "button2": "Demo"
+    },
+    {
+        "id": 6,
+        "image": "https://u.cubeupload.com/cdalangin/creaticafrontpage.png",
+        "name": "Quick Meals",
+        "prize": "N/A",
+        "desc": "Quick Meals serves personalized meals based on your set of criteria to make your time in the kitchen easier!",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "url1": "https://github.com/cdalangin/creatica20",
+        "button1": "Github",
+        "url2": "https://treatyourself.tech/",
         "button2": "Demo"
     }
 ]

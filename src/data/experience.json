@@ -1,5 +1,16 @@
 [
     {
+        "id": 2,
+        "image": "https://u.cubeupload.com/cdalangin/pwtn.jpg",
+        "title": "Paul Weiss",
+        "position": "Winter Intern",
+        "time": "January 2021 - Present",
+        "list": [
+            "Conduct research and interviews and create a report to improve Paul Weiss Insite",
+            "Part of the Break Through Tech Wintern Program"
+        ]
+    },
+    {
         "id": 1,
         "image": "https://u.cubeupload.com/cdalangin/fellowship.jpg",
         "title": "MLH Fellowship",

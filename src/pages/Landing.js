@@ -14,7 +14,7 @@ import Projects from '../sections/Projects.js'
 
 export default function Landing() {
     return (
-        <div className="h-full bg-gradient-to-b from-purple-200 to-pink-300">
+        <div className="h-full bg-gradient-to-b from-indigo-100 to-purple-300">
             {/* <Navbar /> */}
             <Start />
             <About />

@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "image": "https://u.cubeupload.com/cdalangin/spyfallslide.jpg",
+        "name": "Spyfall 2.0",
+        "prize": "N/A",
+        "desc": "A web game based on the classic card game Spyfall, and based on every other Spyfall web game ever made, but better. We used Node.js, Express.js, and Google Firebase.",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "Node/Express",
+            "Google Firebase"
+        ],
+        "url1": "https://github.com/soyalexx/CodeLabs-WebGame",
+        "button1": "Github",
+        "url2": "URL",
+        "button2": "Demo"
+    },
+    {
+        "id": 2,
+        "image": "https://u.cubeupload.com/cdalangin/moveitcovid.jpg",
+        "name": "Move-it COVID",
+        "prize": "N/A",
+        "desc": "An endless runner game for kids to learn best practices to prevent the spread of COVID-19 using HTML Canvas and Javascript.",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "url1": "https://github.com/shanicesmith98/prevention-game",
+        "button1": "Github",
+        "url2": "URL",
+        "button2": "Demo"
+    },
+    {
+        "id": 3,
+        "image": "https://u.cubeupload.com/cdalangin/Untitled1.jpg",
+        "name": "Green Geese",
+        "prize": "N/A",
+        "desc": "A plant-themed 2D platformer game.  As the level progresses, the player will transform into various stages of a plant until it becomes fully grown.",
+        "technologies": [
+            "Unity"
+        ],
+        "url1": "https://github.com/MLH-Fellowship/Green-Geese",
+        "button1": "Github",
+        "url2": "https://zzranger.github.io/Green-Geese-Demo/",
+        "button2": "Demo"
+    }
+]
