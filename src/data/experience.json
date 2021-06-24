@@ -1,35 +1,46 @@
 [
     {
+        "id": 1,
+        "image": "https://u.cubeupload.com/cdalangin/wib.jpg",
+        "title": "Baruch Women in Business",
+        "position": "VP of Graphics and IT Committee",
+        "time": "August 2020 - May 2020",
+        "list": [
+            "Led a committee of 7 to create promotional materials for the club such as flyers and banners every week",
+            "Updated the official website and handle orders from the online store"
+        ]
+    },
+    {
         "id": 2,
         "image": "https://u.cubeupload.com/cdalangin/pwtn.jpg",
         "title": "Paul Weiss",
         "position": "Winter Intern",
         "time": "January 2021 - Present",
         "list": [
-            "Conduct research and interviews and create a report to improve Paul Weiss Insite",
+            "Conducted research and interviews and create a report to improve Paul Weiss Insite",
             "Part of the Break Through Tech Wintern Program"
         ]
     },
     {
-        "id": 1,
+        "id": 3,
         "image": "https://u.cubeupload.com/cdalangin/fellowship.jpg",
         "title": "MLH Fellowship",
         "position": "Explorer Fellow",
         "time": "October 2020 - December 2020",
         "list": [
-            "Collaborate virtually in a group of 4 on 6 hackathon-like projects using ReactJS, Google Firebase",
-            "Participate in bi-weekly stand-ups to track each other’s progress and provide appropriate feedback"
+            "Collaborated virtually in a group of 4 on 6 hackathon-like projects using ReactJS, React Native, Google Firebase and Unity",
+            "Participated in bi-weekly stand-ups to track each other’s progress and provide appropriate feedback"
         ]
     },
     {
-        "id": 2,
+        "id": 4,
         "image": "https://u.cubeupload.com/cdalangin/codeday.jpg",
         "title": "CodeDay",
         "position": "CodeLabs Intern",
         "time": "July 2020",
         "list": [
-            "CodeLabs is a four week long internship where I worked with a group of 3 to created a multiplayer web game based on the card game Spyfall. We collaborated on the front end using HTML, CSS, and Bootstrap, and the backend using Node.js and the Google Cloud Platform.",
-            "I also designed the logo and 20 playing cards that were used in our web game using Adobe Photoshop."
+            "Worked in a group of 3 during a 4 week long internship to create a multiplayer web game based on the card game Spyfall. Collaborated on the front end using HTML, CSS, and Bootstrap, and the backend using Node.js and the Google Cloud Platform.",
+            "Designed the logo and 20 playing cards that were used in our web game using Adobe Photoshop."
         ]
     }
 ]

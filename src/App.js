@@ -1,3 +1,4 @@
+import React from "react"
 import {
   BrowserRouter as Router,
   Switch,
@@ -14,21 +15,26 @@ import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
+    // <Router>
+    //   <ScrollToTop>
+    //     <Switch>
+    //       <Route path="/trophy">
+    //         <TrophyCase />
+    //       </Route>
+    //       <Route path="/artworks">
+    //         <Artworks />
+    //       </Route>
+    //       <Route path="/">
+
+    //       </Route>
+    //     </Switch>
+    //   </ScrollToTop>
+    // </Router >
     <Router>
       <ScrollToTop>
-        <Switch>
-          <Route path="/trophy">
-            <TrophyCase />
-          </Route>
-          <Route path="/artworks">
-            <Artworks />
-          </Route>
-          <Route path="/">
-            <LandingPage />
-          </Route>
-        </Switch>
+        <LandingPage />
       </ScrollToTop>
-    </Router >
+    </Router>
   );
 }
 

@@ -1,6 +1,5 @@
-import React, { useState, Component } from 'react';
+import React from 'react';
 import "tailwindcss/tailwind.css"
-import { Link, Redirect, State } from 'react-router-dom';
 
 
 export default function Contact() {

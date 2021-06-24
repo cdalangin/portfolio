@@ -14,5 +14,41 @@
         "button1": "Github",
         "url2": "URL",
         "button2": "Demo"
+    },
+    {
+        "id": 5,
+        "image": "https://u.cubeupload.com/cdalangin/insanitysp.png",
+        "name": "Insanity Starter Pack",
+        "prize": "N/A",
+        "desc": "With the push of a button, this web app will take you to a random page with a bunch of goofs and jokes.",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "url1": "https://github.com/cdalangin/sillyhacks",
+        "button1": "Github",
+        "url2": "http://www.insanitystarterpack.media/",
+        "button2": "Demo",
+        "url3": "URL",
+        "button3": "Artwork"
+    },
+    {
+        "id": 6,
+        "image": "https://u.cubeupload.com/cdalangin/creaticafrontpage.png",
+        "name": "Quick Meals",
+        "prize": "N/A",
+        "desc": "Quick Meals serves personalized meals based on your set of criteria to make your time in the kitchen easier!",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "url1": "https://github.com/cdalangin/creatica20",
+        "button1": "Github",
+        "url2": "https://treatyourself.tech/",
+        "button2": "Demo",
+        "url3": "URL",
+        "button3": "Artwork"
     }
 ]

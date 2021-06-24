@@ -14,7 +14,9 @@
         "url1": "https://github.com/soyalexx/CodeLabs-WebGame",
         "button1": "Github",
         "url2": "URL",
-        "button2": "Demo"
+        "button2": "Demo",
+        "url3": "https://cdalangin.github.io/italicizedflorenz2/summerhacks.html",
+        "button3": "Artwork"
     },
     {
         "id": 2,
@@ -30,7 +32,9 @@
         "url1": "https://github.com/shanicesmith98/prevention-game",
         "button1": "Github",
         "url2": "URL",
-        "button2": "Demo"
+        "button2": "Demo",
+        "url3": "https://cdalangin.github.io/italicizedflorenz2/summerhacks.html",
+        "button3": "Artwork"
     },
     {
         "id": 3,
@@ -44,6 +48,9 @@
         "url1": "https://github.com/MLH-Fellowship/Green-Geese",
         "button1": "Github",
         "url2": "https://zzranger.github.io/Green-Geese-Demo/",
-        "button2": "Demo"
+        "button2": "Demo",
+        "url3": "URL",
+        "button3": "Artwork"
+        
     }
 ]

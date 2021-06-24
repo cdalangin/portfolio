@@ -47,7 +47,9 @@ export default function Card(props) {
                                 url1={project.url1}
                                 button1={project.button1}
                                 url2={project.url2}
-                                button2={project.button2} />
+                                button2={project.button2}
+                                url3={project.url3}
+                                button3={project.button3} />
                         </div>
                     </div>
                 </div>
