@@ -10,6 +10,7 @@ import About from '../sections/About.js'
 import Experience from '../sections/Experience.js'
 import Contact from '../sections/Contact.js'
 import Projects from '../sections/Projects.js'
+// import Project from '../sections/Project.js'
 
 
 export default function Landing() {
@@ -20,6 +21,7 @@ export default function Landing() {
             <About />
             <Experience />
             <Projects />
+            {/* <Project /> */}
             <Contact />
             <Footer />
 

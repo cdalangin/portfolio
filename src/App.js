@@ -31,9 +31,9 @@ function App() {
     //   </ScrollToTop>
     // </Router >
     <Router>
-      <ScrollToTop>
-        <LandingPage />
-      </ScrollToTop>
+      {/* <ScrollToTop> */}
+      <LandingPage />
+      {/* </ScrollToTop> */}
     </Router>
   );
 }

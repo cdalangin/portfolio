@@ -30,13 +30,32 @@
         ],
         "url1": "https://github.com/cdalangin/hobbyhacks",
         "button1": "Github",
-        "url2": "http://www.art-illery.tech/",
+        "url2": "https://cdalangin.github.io/hobbyhacks/",
         "button2": "Demo",
         "url3": "URL",
         "button3": "Artwork"
     },
     {
         "id": 3,
+        "image": "https://u.cubeupload.com/cdalangin/priologo.png",
+        "name": "Prioritize",
+        "prize": "👑 Best Presentation",
+        "desc": "A React Native app that lets users plan their schedule while the app schedule their day while the app allots time for breaks and time for themselves",
+        "technologies": [
+            "React Native",
+            "Expo",
+            "CSS",
+            "Google Firebase"
+        ],
+        "url1": "https://github.com/cdalangin/internhackst17/",
+        "button1": "Github",
+        "url2": "https://expo.dev/@cdalangin/prioritize",
+        "button2": "Demo",
+        "url3": "URL",
+        "button3": "Artwork"
+    },
+    {
+        "id": 4,
         "image": "https://u.cubeupload.com/cdalangin/chronologeese.jpg",
         "name": "Chronolo-Geese",
         "prize": "N/A",
@@ -49,24 +68,6 @@
         "url1": "https://github.com/MLH-Fellowship/Chronolo-Geese",
         "button1": "Github",
         "url2": "https://chronolo-geese.web.app/",
-        "button2": "Demo",
-        "url3": "URL",
-        "button3": "Artwork"
-    },
-    {
-        "id": 4,
-        "image": "https://u.cubeupload.com/cdalangin/simplifytn.jpg",
-        "name": "Simplify",
-        "prize": "N/A",
-        "desc": "A chrome extension that summarizes articles into 5 sentences with just one click!",
-        "technologies": [
-            "HTML",
-            "CSS",
-            "Heroku"
-        ],
-        "url1": "https://github.com/MLH-Fellowship/Simplify",
-        "button1": "Github",
-        "url2": "URL",
         "button2": "Demo",
         "url3": "URL",
         "button3": "Artwork"

@@ -14,35 +14,15 @@
         "id": 2,
         "image": "https://u.cubeupload.com/cdalangin/teambaruchlogo.jpg",
         "title": "T.E.A.M Baruch",
-        "position": "Orientation Leader",
-        "time": "May 2021 - Present",
+        "position": "Success Network Peer Mentor",
+        "time": "August 2021 - Present",
         "list": [
-            "Assist freshmen and transfer students as they enter the college",
-            "Manage a Zoom breakout room of 25-40 students and resolve enrollment conflicts"
+            "Host engaging social and academic themed events for freshman students during Success Network Bootcamp",
+            "Mentor freshman students throughout the semester by providing support and guidance in their college career"
         ]
     },
     {
         "id": 3,
-        "image": "https://u.cubeupload.com/cdalangin/codepath.jpg",
-        "title": "CodePath Technical Interview Prep",
-        "position": "Participant",
-        "time": "June 2021 - Present",
-        "list": [
-            "Student in a summer virtual course about data structures and algorithms to help prepare for technical interviewing"
-        ]
-    },
-    {
-        "id": 4,
-        "image": "https://u.cubeupload.com/cdalangin/internhacks.jpg",
-        "title": "InternHacks",
-        "position": "Intern (Engineer)",
-        "time": "June 2021 - Present",
-        "list": [
-            "Collaborate with 5 group members in building a mobile app using React Native and Google Firebase"
-        ]
-    },
-    {
-        "id": 5,
         "image": "https://u.cubeupload.com/cdalangin/ttny.jpg",
         "title": "Techtogether New York",
         "position": "Organizer (Tech General Member)",

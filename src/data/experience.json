@@ -1,6 +1,37 @@
 [
     {
         "id": 1,
+        "image": "https://u.cubeupload.com/cdalangin/teambaruchlogo.jpg",
+        "title": "T.E.A.M Baruch",
+        "position": "Orientation Leader",
+        "time": "May 2021 - August 2021",
+        "list": [
+            "Assist freshmen and transfer students as they enter the college",
+            "Manage a Zoom breakout room of 25-40 students and resolve enrollment conflicts"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "https://u.cubeupload.com/cdalangin/codepath.jpg",
+        "title": "CodePath Technical Interview Prep",
+        "position": "Participant",
+        "time": "June 2021 - August 2021",
+        "list": [
+            "Student in a summer virtual course about data structures and algorithms to help prepare for technical interviewing"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://u.cubeupload.com/cdalangin/internhacks.jpg",
+        "title": "InternHacks",
+        "position": "Intern (Engineer)",
+        "time": "June 2021 - Present",
+        "list": [
+            "Collaborate with 5 group members in building a mobile app using React Native and Google Firebase"
+        ]
+    },
+    {
+        "id": 4,
         "image": "https://u.cubeupload.com/cdalangin/wib.jpg",
         "title": "Baruch Women in Business",
         "position": "VP of Graphics and IT Committee",
@@ -11,7 +42,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 5,
         "image": "https://u.cubeupload.com/cdalangin/pwtn.jpg",
         "title": "Paul Weiss",
         "position": "Winter Intern",
@@ -22,7 +53,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 6,
         "image": "https://u.cubeupload.com/cdalangin/fellowship.jpg",
         "title": "MLH Fellowship",
         "position": "Explorer Fellow",
@@ -33,7 +64,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 7,
         "image": "https://u.cubeupload.com/cdalangin/codeday.jpg",
         "title": "CodeDay",
         "position": "CodeLabs Intern",
