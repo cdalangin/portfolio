@@ -37,6 +37,24 @@
     },
     {
         "id": 3,
+        "image": "https://u.cubeupload.com/cdalangin/chronologeese.jpg",
+        "name": "Chronolo-Geese",
+        "prize": "N/A",
+        "desc": "Git organized. Git on time. Chronolo-Geese is the best schedule conflict manager for students.",
+        "technologies": [
+            "React.js",
+            "MaterialUI",
+            "Google Firebase"
+        ],
+        "url1": "https://github.com/MLH-Fellowship/Chronolo-Geese",
+        "button1": "Github",
+        "url2": "https://chronolo-geese.web.app/",
+        "button2": "Demo",
+        "url3": "URL",
+        "button3": "Artwork"
+    },
+    {
+        "id": 4,
         "image": "https://u.cubeupload.com/cdalangin/priologo.png",
         "name": "Prioritize",
         "prize": "👑 Best Presentation",
@@ -50,24 +68,6 @@
         "url1": "https://github.com/cdalangin/internhackst17/",
         "button1": "Github",
         "url2": "https://expo.dev/@cdalangin/prioritize",
-        "button2": "Demo",
-        "url3": "URL",
-        "button3": "Artwork"
-    },
-    {
-        "id": 4,
-        "image": "https://u.cubeupload.com/cdalangin/chronologeese.jpg",
-        "name": "Chronolo-Geese",
-        "prize": "N/A",
-        "desc": "Git organized. Git on time. Chronolo-Geese is the best schedule conflict manager for students.",
-        "technologies": [
-            "React.js",
-            "MaterialUI",
-            "Google Firebase"
-        ],
-        "url1": "https://github.com/MLH-Fellowship/Chronolo-Geese",
-        "button1": "Github",
-        "url2": "https://chronolo-geese.web.app/",
         "button2": "Demo",
         "url3": "URL",
         "button3": "Artwork"
