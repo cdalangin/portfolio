@@ -1,4 +1,4 @@
-import React, { useState, Component } from 'react';
+import React, { useState, Component, useEffect } from 'react';
 import ReactDOM from 'react-dom';
 import "tailwindcss/tailwind.css"
 
@@ -9,19 +9,22 @@ import Start from '../sections/Start.js'
 import About from '../sections/About.js'
 import Experience from '../sections/Experience.js'
 import Contact from '../sections/Contact.js'
-import Projects from '../sections/Projects.js'
-// import Project from '../sections/Project.js'
+// import Projects from '../sections/Projects.js'
+import Project from '../sections/Project.js'
 
 
 export default function Landing() {
+    useEffect(() => {
+        window.scrollTo(0, 0)
+    }, [])
     return (
         <div className="h-full bg-gradient-to-b from-indigo-100 to-purple-300">
             {/* <Navbar /> */}
             <Start />
             <About />
             <Experience />
-            <Projects />
-            {/* <Project /> */}
+            {/* <Projects /> */}
+            <Project />
             <Contact />
             <Footer />
 
