@@ -14,7 +14,7 @@
         "id": 2,
         "image": "https://u.cubeupload.com/cdalangin/codepath.jpg",
         "title": "CodePath Technical Interview Prep",
-        "position": "Participant",
+        "position": "Student",
         "time": "June 2021 - August 2021",
         "list": [
             "Student in a summer virtual course about data structures and algorithms to help prepare for technical interviewing"
@@ -24,7 +24,7 @@
         "id": 3,
         "image": "https://u.cubeupload.com/cdalangin/internhacks.jpg",
         "title": "InternHacks",
-        "position": "Intern (Engineer)",
+        "position": "Engineering Intern",
         "time": "June 2021 - Present",
         "list": [
             "Collaborate with 5 group members in building a mobile app using React Native and Google Firebase"
@@ -45,7 +45,7 @@
         "id": 5,
         "image": "https://u.cubeupload.com/cdalangin/pwtn.jpg",
         "title": "Paul Weiss",
-        "position": "Winter Intern",
+        "position": "UX Intern",
         "time": "January 2021",
         "list": [
             "Conducted research and interviews and create a report to improve Paul Weiss Insite",
@@ -56,7 +56,7 @@
         "id": 6,
         "image": "https://u.cubeupload.com/cdalangin/fellowship.jpg",
         "title": "MLH Fellowship",
-        "position": "Explorer Fellow",
+        "position": "(SWE) Explorer Fellow",
         "time": "October 2020 - December 2020",
         "list": [
             "Collaborated virtually in a group of 4 on 6 hackathon-like projects using ReactJS, React Native, Google Firebase and Unity",
@@ -67,7 +67,7 @@
         "id": 7,
         "image": "https://u.cubeupload.com/cdalangin/codeday.jpg",
         "title": "CodeDay",
-        "position": "CodeLabs Intern",
+        "position": "Frontend Developer Intern",
         "time": "July 2020",
         "list": [
             "Worked in a group of 3 during a 4 week long internship to create a multiplayer web game based on the card game Spyfall. Collaborated on the front end using HTML, CSS, and Bootstrap, and the backend using Node.js and the Google Cloud Platform.",
