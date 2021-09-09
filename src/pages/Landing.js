@@ -18,15 +18,17 @@ export default function Landing() {
         window.scrollTo(0, 0)
     }, [])
     return (
-        <div className="h-full bg-gradient-to-b from-indigo-100 to-purple-300">
+        <div className="h-full bg-purple-300">
             {/* <Navbar /> */}
             <Start />
-            <About />
-            <Experience />
-            {/* <Projects /> */}
-            <Project />
-            <Contact />
-            <Footer />
+            <div className="bg-gradient-to-b from-purple-300 to-purple-400">
+                <About />
+                <Experience />
+                {/* <Projects /> */}
+                <Project />
+                <Contact />
+                <Footer />
+            </div>
 
         </div>
     )

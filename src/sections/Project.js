@@ -11,15 +11,15 @@ export default function Project() {
     return (
         <div className="items-center py-2 px-2 grid grid-row-2 mb-10">
 
-            <p className="text-7xl font-black text-indigo-400 text-center">Projects</p>
+            <p className="text-5xl md:text-7xl font-black text-indigo-900 text-center">Projects</p>
             <div className="flex flex-col justify-center items-center mt-10">
 
                 <TabGroup numTabs={3} direction={TabGroup.direction.HORIZONTAL}>
-                    <TabGroup.TabList className="border-b-4 border-indigo-700">
+                    <TabGroup.TabList className="border-b-4 border-indigo-900">
                         <TabGroup.Tab
                             index={0}
                             className="h-12 px-12 transition-colors duration-150"
-                            activeClassName="bg-indigo-300 text-indigo-700 rounded-t-xl focus:outline-none"
+                            activeClassName="bg-purple-300 text-indigo-700 rounded-t-xl focus:outline-none"
                             inactiveClassName="text-indigo-700 focus:outline-none"
                         >
                             Development
@@ -27,7 +27,7 @@ export default function Project() {
                         <TabGroup.Tab
                             index={1}
                             className="h-12 px-12 transition-colors duration-150"
-                            activeClassName="bg-indigo-300 text-indigo-700 rounded-t-xl focus:outline-none"
+                            activeClassName="bg-purple-300 text-indigo-700 rounded-t-xl focus:outline-none"
                             inactiveClassName="text-indigo-700 focus:outline-none"
                         >
                             Design

@@ -47,13 +47,14 @@ export default function Card(props) {
                 style={
                     {
                         overlay: {
-                            height: '100vh',
+                            maxHeight: '100vh',
+                            maxWidth: '100vw',
                             display: 'flex',
                             alignItems: 'center',
                             justifyContent: 'center'
                         },
                         content: {
-                            width: '75vh'
+                            maxWidth: '75vh'
                         }
                     }
                 }
@@ -91,7 +92,7 @@ export default function Card(props) {
                 </div>
             </Modal>
 
-        </div>
+        </div >
 
     )
 }
