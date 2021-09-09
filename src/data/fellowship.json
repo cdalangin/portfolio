@@ -21,7 +21,7 @@
         "id": 2,
         "image": "https://u.cubeupload.com/cdalangin/artillery.jpg",
         "name": "ARTillery",
-        "desc": "A cure for Artist Block that not only gives users a simple prompt to follow, but also gives them various options to draw inspiration from. Used HTML, Bootstrap, and Javascript.",
+        "desc": "A cure for Artist Block that not only gives users a simple prompt to follow, but also gives them various options to draw inspiration from.",
         "prize": "👑 Best Arts and Crafts Hack of Techtogether's HobbyHacks Hackathon",
         "technologies": [
             "HTML",
@@ -58,7 +58,7 @@
         "image": "https://u.cubeupload.com/cdalangin/priologo.png",
         "name": "Prioritize",
         "prize": "👑 Best Presentation",
-        "desc": "A React Native app that lets users plan their schedule while the app schedule their day while the app allots time for breaks and time for themselves",
+        "desc": "A React Native app that lets users plan their schedule and the app allots time for breaks and time for themselves",
         "technologies": [
             "React Native",
             "Expo",
