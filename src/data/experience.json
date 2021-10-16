@@ -1,6 +1,27 @@
 [
     {
         "id": 1,
+        "image": "https://u.cubeupload.com/cdalangin/ttny.jpg",
+        "title": "Techtogether New York",
+        "position": "Organizer (Tech General Member)",
+        "time": "May 2021 - Present",
+        "list": [
+            "Design and develop TechTogether New York's Hackathon website using HTML/CSS, Javascript, and Bootstrap"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "https://u.cubeupload.com/cdalangin/teambaruchlogo.jpg",
+        "title": "T.E.A.M Baruch",
+        "position": "Success Network Peer Mentor",
+        "time": "August 2021 - Present",
+        "list": [
+            "Host engaging social and academic themed events for freshman students during Success Network Bootcamp",
+            "Mentor freshman students throughout the semester by providing support and guidance in their college career"
+        ]
+    },
+    {
+        "id": 3,
         "image": "https://u.cubeupload.com/cdalangin/teambaruchlogo.jpg",
         "title": "T.E.A.M Baruch",
         "position": "Orientation Leader",
@@ -11,7 +32,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 4,
         "image": "https://u.cubeupload.com/cdalangin/codepath.jpg",
         "title": "CodePath Technical Interview Prep",
         "position": "Student",
@@ -21,7 +42,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 5,
         "image": "https://u.cubeupload.com/cdalangin/internhacks.jpg",
         "title": "InternHacks",
         "position": "Engineering Intern",
@@ -31,7 +52,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 6,
         "image": "https://u.cubeupload.com/cdalangin/wib.jpg",
         "title": "Baruch Women in Business",
         "position": "VP of Graphics and IT Committee",
@@ -42,7 +63,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 7,
         "image": "https://u.cubeupload.com/cdalangin/pwtn.jpg",
         "title": "Paul Weiss",
         "position": "UX Intern",
@@ -53,7 +74,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 8,
         "image": "https://u.cubeupload.com/cdalangin/fellowship.jpg",
         "title": "MLH Fellowship",
         "position": "(SWE) Explorer Fellow",
@@ -64,7 +85,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 9,
         "image": "https://u.cubeupload.com/cdalangin/codeday.jpg",
         "title": "CodeDay",
         "position": "Frontend Developer Intern",

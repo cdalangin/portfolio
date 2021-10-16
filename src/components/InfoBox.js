@@ -23,8 +23,6 @@ export default function InfoBox(props) {
 
                             {exp.list.map(desc => (
                                 <p className="sm:text-sm text-xs text-gray-700 px-2 mr-1 my-3">{desc}</p>
-
-
                             ))}
 
                         </div>
