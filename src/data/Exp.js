@@ -1,7 +1,16 @@
-[
+import ttny from "../assets/timeline/ttny.jpg"
+import tbtn from "../assets/timeline/tbtn.jpg"
+import codepath from "../assets/timeline/codepath.jpg"
+import internhacks from "../assets/timeline/internhacks.jpg"
+import wib from "../assets/timeline/wib.jpg"
+import pwtn from "../assets/timeline/pwtn.jpg"
+import mlh from "../assets/timeline/fellowship.jpg"
+import codeday from "../assets/timeline/codeday.jpg"
+
+export const items = [
     {
         "id": 1,
-        "image": "../assets/timeline/ttny.jpg",
+        "image": ttny,
         "title": "Techtogether New York",
         "position": "Organizer (Tech General Member)",
         "time": "May 2021 - Present",
@@ -11,7 +20,7 @@
     },
     {
         "id": 2,
-        "image": "../assets/timeline/tbtn.jpg",
+        "image": tbtn,
         "title": "T.E.A.M Baruch",
         "position": "Success Network Peer Mentor",
         "time": "August 2021 - Present",
@@ -22,7 +31,7 @@
     },
     {
         "id": 3,
-        "image": "../assets/timeline/tbtn.jpg",
+        "image": tbtn,
         "title": "T.E.A.M Baruch",
         "position": "Orientation Leader",
         "time": "May 2021 - August 2021",
@@ -33,7 +42,7 @@
     },
     {
         "id": 4,
-        "image": "../assets/timeline/codepath.jpg",
+        "image": codepath,
         "title": "CodePath Technical Interview Prep",
         "position": "Student",
         "time": "June 2021 - August 2021",
@@ -43,7 +52,7 @@
     },
     {
         "id": 5,
-        "image": "../assets/timeline/internhacks.jpg",
+        "image": internhacks,
         "title": "InternHacks",
         "position": "Engineering Intern",
         "time": "June 2021 - Present",
@@ -53,7 +62,7 @@
     },
     {
         "id": 6,
-        "image": "../assets/timeline/wib.jpg",
+        "image": wib,
         "title": "Baruch Women in Business",
         "position": "VP of Graphics and IT Committee",
         "time": "August 2020 - May 2021",
@@ -64,7 +73,7 @@
     },
     {
         "id": 7,
-        "image": "../assets/timeline/pwtn.jpg",
+        "image": pwtn,
         "title": "Paul Weiss",
         "position": "UX Intern",
         "time": "January 2021",
@@ -75,7 +84,7 @@
     },
     {
         "id": 8,
-        "image": "../assets/timeline/fellowship.jpg",
+        "image": mlh,
         "title": "MLH Fellowship",
         "position": "(SWE) Explorer Fellow",
         "time": "October 2020 - December 2020",
@@ -86,7 +95,7 @@
     },
     {
         "id": 9,
-        "image": "../assets/timeline/codeday.jpg",
+        "image": codeday,
         "title": "CodeDay",
         "position": "Frontend Developer Intern",
         "time": "July 2020",

@@ -1,14 +1,13 @@
 import React, { useState, Component } from 'react';
 import "tailwindcss/tailwind.css"
 // import InfoBox from "../components/InfoBox"
-import experience from "../data/experience.json"
+import {items} from "../data/Exp.js"
 
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 
-
 export default function Experience() {
-    let items = experience
+
     return (
         <div className="flex items-center p-5 grid grid-row-2">
             <div className="text-center text-indigo-900">

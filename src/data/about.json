@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "https://u.cubeupload.com/cdalangin/baruch.jpg",
+        "image": "../assets/baruch.jpg",
         "title": "Baruch College",
         "position": "Junior Student",
         "time": "Class of 2023",
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "image": "https://u.cubeupload.com/cdalangin/teambaruchlogo.jpg",
+        "image": "../assets/timeline/tbtn.jpg",
         "title": "T.E.A.M Baruch",
         "position": "Success Network Peer Mentor",
         "time": "August 2021 - Present",
@@ -23,7 +23,7 @@
     },
     {
         "id": 3,
-        "image": "https://u.cubeupload.com/cdalangin/ttny.jpg",
+        "image": "../assets/timeline/ttny.jpg",
         "title": "Techtogether New York",
         "position": "Organizer (Tech General Member)",
         "time": "May 2021 - Present",
