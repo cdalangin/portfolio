@@ -1,7 +1,4 @@
 # Cirill Dalangin's Personal Portfolio
-
-<img src="./src/assets/LandingIMG.jpg" alt="Landing Page" height="200px;"/>
-
 ### Frameworks Used:
 - React.js
 - Tailwind CSS
