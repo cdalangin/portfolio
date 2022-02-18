@@ -10,7 +10,7 @@ export default function Start() {
         <div className="h-screen bg-purple-300 flex flex-col md:flex-row items-center justify-center p-4">
             <div className="text-center md:w-2/4">
                 <p className="text-4xl font-black text-indigo-900">Hello! I'm Cirill Florenz</p>
-                <p className="text-3xl text-indigo-800">An aspiring Frontend Developer who loves to crochet</p>
+                <p className="text-2xl text-indigo-800">An aspiring Frontend Developer who loves to crochet</p>
                 <div className="sm:flex sm:mt-8 m-auto">
                     <div className="mt-8 sm:mt-0 sm:w-full sm:px-6 flex justify-center">
                         <div className="flex flex-col mr-5">

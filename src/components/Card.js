@@ -34,7 +34,7 @@ export default function Card(props) {
                             <img
                                 src={project.image}
                                 alt={project.name}
-                                className="hover:opacity-20"
+                                className="hover:opacity-20 cursor-pointer"
                             />
                         </div>
                     </div>

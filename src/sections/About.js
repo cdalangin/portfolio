@@ -10,12 +10,12 @@ export default function About() {
             
             <p className="text-5xl md:text-7xl font-black mb-5">About</p>
             <div className="flex flex-col md:flex-row">
-                <div className="text-left md:w-2/4 px-3">
-                    <p className="sm:text-md text-lg text-gray-700 px-2 mr-1 my-3">
+                <div className="text-left md:w-2/4 px-3 my-auto">
+                    <p className="sm:text-md text-lg text-gray-700 px-2 mr-1">
                         I'm a junior at Baruch College with a Computer Information Systems major and graphic art minor!
                         <br/><br/>
-                        I am currently mentoring 7 amazing freshmen students as a <strong><a href="https://enrollmentmanagement.baruch.cuny.edu/success-amplified/success-network/success-in-your-first-year/peer-mentor/" target="_blank">Success Network</a></strong> Peer Mentor, helping out in 
-                        organizing the <strong><a href="https://newyork.techtogether.io/" target="_blank">TechTogether New York Hackathon</a></strong> and the <strong><a href="https://cunyhackathon.tech/" target="_blank">CUNY Hackathon</a></strong>, and marketing for the 
+                        I am currently mentoring 12 amazing freshmen students as a <strong><a href="https://enrollmentmanagement.baruch.cuny.edu/success-amplified/success-network/success-in-your-first-year/peer-mentor/" target="_blank">Success Network</a></strong> Peer Mentor, 
+                        serving as an Assistant Vice President of Tech in <strong><a href="https://ascendbaruch.org/" target="_blank">Ascend Baruch</a></strong>, and marketing for the 
                          <strong><a href="https://baruchais.com/"  target="_blank"> Baruch Association for Information Systems</a></strong>.
                     </p>
                 </div>
